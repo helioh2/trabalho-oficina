@@ -28,7 +28,7 @@ TRABALHO DE OFICINA DE COMPUTAÇÃO
 
 - DATA DE APRESENTAÇÃO DE ACOMPANHAMENTO (MÍNIMO 70% FEITO E FUNCIONANDO BOA PARTE DAS COISAS): 16/11 e 17/11
 
-- DATA DE ENTREGA E APRESENTAÇÃO FINAL: 14/12 e 15/12
+- DATA DE ENTREGA E APRESENTAÇÃO FINAL: 07/12 e 08/12
 
     A proposta deve consistir em um documento explicando o objetivo do jogo, os elementos da tela, assim como uma análise de domínio inicial (conforme receita Como Projetar Mundos)
     Na apresentação individual, cada aluno deverá explicar ao professor como o programa foi desenvolvido e responder questionamentos do professor sobre o programa.
